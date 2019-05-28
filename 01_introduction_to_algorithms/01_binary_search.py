@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 二分查找（仅当列表有序时，二分查找才有用）
+# 2019-05-24
 
 def binary_search(list, item):
     # 设定起始low和high
