@@ -5,3 +5,7 @@
 + [第1章 算法简介](./01_introduction_to_algorithms)
 
 + [第2章 选择排序](./02_selection_sort)
+
++ [第3章 递归](./03_recursion)
+
++ [第4章 快速排序](./04_quicksort)
