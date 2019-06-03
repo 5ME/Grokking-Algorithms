@@ -9,3 +9,5 @@
 + [第3章 递归](./03_recursion)
 
 + [第4章 快速排序](./04_quicksort)
+  
++ [第5章 散列表](./05_hash_tables)
