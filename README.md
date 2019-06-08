@@ -11,3 +11,5 @@
 + [第4章 快速排序](./04_quicksort)
   
 + [第5章 散列表](./05_hash_tables)
+
++ [第6章 广度优先搜索](./06_breadth-first_search)
