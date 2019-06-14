@@ -15,3 +15,5 @@
 + [第6章 广度优先搜索](./06_breadth-first_search)
 
 + [第7章 狄克斯特拉算法](./07_dijkstras_algorithm)
+
++ [第8章 贪婪算法](./08_greedy_algorithms)
