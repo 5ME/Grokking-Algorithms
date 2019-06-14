@@ -13,3 +13,5 @@
 + [第5章 散列表](./05_hash_tables)
 
 + [第6章 广度优先搜索](./06_breadth-first_search)
+
++ [第7章 狄克斯特拉算法](./07_dijkstras_algorithm)
