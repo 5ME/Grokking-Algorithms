@@ -18,14 +18,14 @@ def search(name):
     search_queue = deque()
     search_queue += graph[name]
     searched = []       # 用于记录检查过的人
-    while search_queue:
+    while search_queue:     # 只要队列不为空
         person = search_queue.popleft()
         if not person in searched:      # 仅当这个人没检查过时才检查
-            if person_is_seller(person):
+            if person_is_seller(person):    # 检查这个人
                 print(person + " is a mango seller!")
                 return True
             else:
-                search_queue += graph[person]
+                search_queue += graph[person]   # 不是，将这个人的朋友都加入搜索队列
                 searched.append(person)     # 将这个人标记为检查过
     return False
 
